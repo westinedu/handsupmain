@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/gdata/Crypto/Protocol
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/gdata/Crypto/Protocol/__init__.py
+END
+AllOrNothing.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/gdata/Crypto/Protocol/AllOrNothing.py
+END
+Chaffing.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/gdata/Crypto/Protocol/Chaffing.py
+END

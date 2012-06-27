@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/thrift/protocol
+END
+TBinaryProtocol.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/thrift/protocol/TBinaryProtocol.py
+END
+fastbinary.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/thrift/protocol/fastbinary.c
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/thrift/protocol/__init__.py
+END
+TProtocol.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/thrift/protocol/TProtocol.py
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/2/trunk/gdata
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/gdata/core.py
+END
+gauth.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/gdata/gauth.py
+END
+test_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/gdata/test_data.py
+END
+data.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/gdata/data.py
+END
+urlfetch.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/gdata/urlfetch.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/gdata/client.py
+END
+sample_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/gdata/sample_util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/gdata/__init__.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/gdata/service.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/gdata/auth.py
+END
+test_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/gdata/test_config.py
+END
+apps_property.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/gdata/apps_property.py
+END

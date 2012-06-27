@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/scripts/batch
+END
+public_school_deleter.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/scripts/batch/public_school_deleter.py
+END
+remote_client.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/scripts/batch/remote_client.py
+END
+location_geocell_migration.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/scripts/batch/location_geocell_migration.py
+END
+public_school_loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/scripts/batch/public_school_loader.py
+END
+live_interactive.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/scripts/batch/live_interactive.py
+END
+mapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/scripts/batch/mapper.py
+END
+upload_batch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/scripts/batch/upload_batch.sh
+END

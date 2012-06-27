@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration
+END
+TLSTwistedProtocolWrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/TLSTwistedProtocolWrapper.py
+END
+IMAP4_TLS.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/IMAP4_TLS.py
+END
+TLSAsyncDispatcherMixIn.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/TLSAsyncDispatcherMixIn.py
+END
+ClientHelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/ClientHelper.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/__init__.py
+END
+HTTPTLSConnection.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/HTTPTLSConnection.py
+END
+XMLRPCTransport.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/XMLRPCTransport.py
+END
+AsyncStateMachine.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/AsyncStateMachine.py
+END
+IntegrationHelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/IntegrationHelper.py
+END
+POP3_TLS.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/POP3_TLS.py
+END
+SMTP_TLS.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/SMTP_TLS.py
+END
+TLSSocketServerMixIn.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/gdata/tlslite/integration/TLSSocketServerMixIn.py
+END
